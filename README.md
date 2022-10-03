@@ -107,6 +107,6 @@ What’s the cause of misunderstandings that you’ve had in the past? What beha
 ### My expectations of my BUD (mentor/mentee)
 
 
-### What you can expect from me
+### What you can expect of me
 
 
