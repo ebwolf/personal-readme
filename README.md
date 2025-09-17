@@ -20,8 +20,6 @@ Welcome to Erica Wolf's Personal README Template! I forked from this repo: https
 
 </br><b>Currently volunteer as an NSO with <A HREF="https://www.bearcityrollerderby.com/">BCRD</A></b></br>
 
-</br><b>Currently volunteer as an NSO with <A HREF="https://www.bearcityrollerderby.com/">BCRD</A></b></br>
-
 </br><b>I am a transgender woman with purple hair</b></br>
 
 </br><b>I am a US Citizen and live in Berlin</b></br>
