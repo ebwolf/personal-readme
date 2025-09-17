@@ -38,7 +38,7 @@ Welcome to Erica Wolf's Personal README Template! I forked from this repo: https
 
 ### My expectations of my BUD (mentor/mentee)
 
-I am an experienced mentor, while I can and will guide you through a tech project. I prefer a more "touchy-feely" style of mentorship where I will listen to your concerns and help you make these your strengths. I am especially experienced with mentoring women and non-binary people of color (POC). 
+I am an experienced mentor, while I can and will guide you through a tech project. I prefer a more "touchy-feely" style of mentorship where I will listen to your concerns and help you make these your strengths. I am especially experienced with mentoring women and non-binary people of color (POC). My expectations are simple: communicate with me (email, whatsapp, Signal, Telegram, Threema, IG, etc.) 
 
 ### What you can expect of me
 
