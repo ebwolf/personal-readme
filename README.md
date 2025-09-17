@@ -42,4 +42,9 @@ I am an experienced mentor, while I can and will guide you through a tech projec
 
 ### What you can expect of me
 
+I will be your biggest cheerleader. I will always encourage you in a way that is authentic. I want you to succeed.
+
+### WARNING!
+
+I am not from a hugging family and I am autistic. I may put out "don't hug me vibes" but I really like being hugged. I used to say only people who knew me as Tia (my roller derby name) could hug me. Then I expanded this to anyone who's seen all of my tattoos. Now it is basically anyone who is comfortable with hugging. Do not feel pressured if you aren't a hugger. I'll never instigate a hug.
 
