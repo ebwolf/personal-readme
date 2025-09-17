@@ -1,6 +1,6 @@
-# Personal README Template
+# Erica Wolf's Personal README Template
 
-Welcome to BUD's Personal README Template! Simply click "Use this template" above to create your own copy. You may want to read [this explanation](https://growwithbud.notion.site/README-Template-9d4c92efe88944a28a6d82aa33811b77) first.
+Welcome to Erica Wolf's Personal README Template! I forked from this repo: https://github.com/growwithbud/personal-readme
 
 ### Using your Personal README as a Website to Share
 
@@ -14,14 +14,22 @@ Welcome to BUD's Personal README Template! Simply click "Use this template" abov
 
 
 <details>
-    <summary>Tips</summary>
-A little bit about you!
+    <summary>Erica Wolf<ol><li>is a Software Quality Mentor</li><li>experienced Building People-Centered Tech-Teams</li><li>has 30+ Yrs Development Experience</li><li>is seeking a QA Leadership Role Remote or hybrid in Berlin</li></summary>
 </details>
 
 ## Fast Facts
 
 
-</br><b>Cat or dog person?</b></br>
+</br><b>I am a former amateur race car driver</b></br>
+
+</br><b>I am a former dog agility trainer</b></br>
+
+</br><b>I am a former Roller Derby player (rostered with <A HREF="https://www.sunshinerollerderby.com/">SCRD</A>)</b></br>
+
+</br><b>Currently volunteer as an NSO with <A HREF="https://www.bearcityrollerderby.com/">BCRD</A></b></br>
+
+</br><b>Currently volunteer as an NSO with <A HREF="https://www.bearcityrollerderby.com/">BCRD</A></b></br>
+
 
 </br><b>Beach or mountain holiday?</b></br>
 
